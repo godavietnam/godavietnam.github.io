@@ -8,3 +8,4 @@ icon: fa-home
 order: 1
 hide: true
 ---
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
